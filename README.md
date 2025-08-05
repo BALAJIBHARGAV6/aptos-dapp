@@ -69,3 +69,5 @@ By offering this standardized library, we envision fostering innovation in the A
 ## Contract Details
 
 `0xb875f7d1549df6bf3af42999d84fc8d3e7b06e10d39110886fd3ab96dac7c212`# riseinaptosdapp
+<img width="1710" height="1107" alt="Screenshot 2025-08-05 at 11 32 26 PM" src="https://github.com/user-attachments/assets/4e3a411b-2c78-49af-bada-c40059a3c137" />
+
